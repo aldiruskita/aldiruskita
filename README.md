@@ -32,6 +32,26 @@ and digital experiences with purpose.
 </div>
 
 ---
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
+  <img
+    src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    alt="Pacman contribution graph"
+  />
+</picture>
+
+</div>
 
 ## About Me
 
@@ -79,27 +99,6 @@ My approach is simple: **understand the problem, design the experience, build th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
 </div>
 
-
-## Contributions
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  />
-  <img
-    src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
-    alt="Pacman contribution graph"
-  />
-</picture>
-
-</div>
 
 <br>
 
