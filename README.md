@@ -5,9 +5,10 @@ src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/main/assets/anima
 alt="ALDI RUSKITA"
 />
 
+<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"
+src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2&section=header"
 width="65%"
 />
 
@@ -22,14 +23,14 @@ and digital experiences with purpose.
 
 <a href="https://aldiruskita.vercel.app/">
   <img
-    src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=vercel&logoColor=white"
+    src="https://img.shields.io/badge/PORTFOLIO-21262D?style=for-the-badge&logo=vercel&logoColor=C9D1D9"
     alt="Portfolio"
   />
 </a>
 &nbsp;
 <a href="https://github.com/aldiruskita">
   <img
-    src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=C9D1D9"
     alt="GitHub"
   />
 </a>
@@ -38,7 +39,7 @@ and digital experiences with purpose.
 
 <a href="https://aldiruskita.vercel.app/">
   <img
-    src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=6E7681&label=PROFILE+VIEWS"
     alt="Profile views — Visit Portfolio"
   />
 </a>
@@ -60,7 +61,7 @@ My approach is simple: **understand the problem, design the experience, build th
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=14&duration=3500&pause=900&color=6E7681&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+INTENTION;ENGINEERING+WITH+PRECISION;LEARNING+WITHOUT+LIMITS;BUILDING+WHAT+MATTERS"
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=14&duration=3500&pause=900&color=8B949E&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+INTENTION;ENGINEERING+WITH+PRECISION;LEARNING+WITHOUT+LIMITS;BUILDING+WHAT+MATTERS"
 alt="Developer philosophy"
 />
 
@@ -148,6 +149,6 @@ CONTRIBUTING · BUILDING · LEARNING
 
 <div align="center">
 
-<samp>Designed & built by Aldi Ruskita</samp>
+<samp>DESIGNED & BUILT BY ALDI RUSKITA</samp>
 
 </div>
