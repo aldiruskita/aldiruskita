@@ -16,16 +16,6 @@ and digital experiences with purpose.
 <br><br>
 
 <a href="https://aldiruskita.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://github.com/aldiruskita">
-  <img src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br><br>
-
-<a href="https://aldiruskita.vercel.app/">
   <img src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS" alt="Profile views — Visit Portfolio" />
 </a>
 
