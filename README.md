@@ -25,7 +25,9 @@ and digital experiences with purpose.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://aldiruskita.vercel.app/">
+  <img src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS" alt="Profile views — Visit Portfolio" />
+</a>
 
 </div>
 
@@ -44,18 +46,6 @@ My approach is simple: **understand the problem, design the experience, build th
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=6E7681&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+INTENTION;ENGINEERING+WITH+PRECISION;LEARNING+WITHOUT+LIMITS;BUILDING+WHAT+MATTERS" alt="Developer philosophy" />
-
-</div>
-
----
-
-## Portfolio
-
-<div align="center">
-
-<a href="https://aldiruskita.vercel.app/">
-  <img src="https://img.shields.io/badge/Aldi_-_Front--End_Developer_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=8B949E" alt="Aldi - Front-End Developer Portfolio" />
-</a>
 
 </div>
 
