@@ -53,8 +53,6 @@ My approach is simple: **understand the problem, design the experience, build th
 
 ## Tech Stack
 
-## Tech Stack
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
