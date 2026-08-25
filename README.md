@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="65%" />
 
 <br>
 
@@ -18,15 +18,11 @@ and digital experiences with purpose.
 <a href="https://aldiruskita.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
- 
-
+&nbsp;
 <a href="https://github.com/aldiruskita">
   <img src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
- 
-
+&nbsp;
 <a href="https://open.spotify.com/user/Dirus">
   <img src="https://img.shields.io/badge/SPOTIFY-30363D?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </a>
@@ -37,22 +33,15 @@ and digital experiences with purpose.
 
 </div>
 
-<br>
-
 ---
 
-<h2 align="left">About Me</h2>
+## About Me
 
-<p align="left">
-  I am a developer focused on turning ideas into purposeful digital products.
-  I enjoy building clean interfaces, scalable applications, and reliable systems
-  that balance aesthetics with engineering.
-</p>
+I am a developer focused on turning ideas into purposeful digital products.
 
-<p align="left">
-  My approach is simple: understand the problem, design the experience,
-  build the system, and continuously refine the result.
-</p>
+I enjoy building clean interfaces, scalable applications, and reliable systems that balance aesthetics with engineering.
+
+My approach is simple: **understand the problem, design the experience, build the system, and continuously refine the result.**
 
 <br>
 
@@ -62,56 +51,81 @@ and digital experiences with purpose.
 
 </div>
 
-<br>
+---
+
+## Portfolio
 
 <div align="center">
 
 <a href="https://aldiruskita.vercel.app/">
-
-<img src="https://img.shields.io/badge/Aldi_-_Front--End_Developer_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=8B949E" alt="Aldi - Front-End Developer Portfolio" />
-
+  <img src="https://img.shields.io/badge/Aldi_-_Front--End_Developer_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=8B949E" alt="Aldi - Front-End Developer Portfolio" />
 </a>
 
 </div>
 
-<br>
+---
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Dirus">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Dirus&count=5" alt="Spotify recently played" />
-  </a>
+## Currently Listening
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/Dirus">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Dirus&count=5" alt="Spotify recently played" />
+</a>
+
 </div>
 
-<br>
+---
 
-<h2 data-importer="techs" align="left">I code with</h2>
+## Tech Stack
 
-###
+<div align="center">
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman">
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
+  <img
+    src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    alt="Pacman contribution graph"
+  />
 </picture>
 
-###
+</div>
+
+<br>
+
+<div align="center">
+
+<samp>Designed & built by Aldi Ruskita</samp>
+
+</div>
