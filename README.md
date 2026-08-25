@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=700&color=8B949E&center=true&vCenter=true&width=850&lines=ALDI+RUSKITA;FULL-STACK+DEVELOPER;FRONT-END+%26+BACK-END+ENGINEERING;BUILDING+DIGITAL+EXPERIENCES;TURNING+IDEAS+INTO+REALITY" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=700&color=8B949E&center=true&vCenter=true&width=850&lines=MADE+ALDI+RUSKITA+SALAHIN;FULL-STACK+DEVELOPER;FRONT-END+%26+BACK-END+ENGINEERING;BUILDING+DIGITAL+EXPERIENCES;TURNING+IDEAS+INTO+REALITY" alt="Typing animation" />
 
 <br>
 
