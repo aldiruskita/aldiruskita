@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=700&color=8B949E&center=true&vCenter=true&width=850&lines=MADE+ALDI+RUSKITA+SALAHIN;FULL-STACK+DEVELOPER;FRONT-END+%26+BACK-END+ENGINEERING;BUILDING+DIGITAL+EXPERIENCES;TURNING+IDEAS+INTO+REALITY" alt="Typing animation" />
+<img
+src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/main/assets/animated-name.svg"
+alt="ALDI RUSKITA"
+/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="65%" />
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"
+width="65%"
+/>
 
 <br>
 
@@ -16,17 +22,26 @@ and digital experiences with purpose.
 <br><br>
 
 <a href="https://aldiruskita.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 &nbsp;
 <a href="https://github.com/aldiruskita">
-  <img src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <br><br>
 
 <a href="https://aldiruskita.vercel.app/">
-  <img src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS" alt="Profile views — Visit Portfolio" />
+  <img
+    src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS"
+    alt="Profile views — Visit Portfolio"
+  />
 </a>
 
 </div>
@@ -45,7 +60,10 @@ My approach is simple: **understand the problem, design the experience, build th
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=6E7681&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+INTENTION;ENGINEERING+WITH+PRECISION;LEARNING+WITHOUT+LIMITS;BUILDING+WHAT+MATTERS" alt="Developer philosophy" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=14&duration=3500&pause=900&color=6E7681&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+INTENTION;ENGINEERING+WITH+PRECISION;LEARNING+WITHOUT+LIMITS;BUILDING+WHAT+MATTERS"
+alt="Developer philosophy"
+/>
 
 </div>
 
@@ -73,30 +91,61 @@ My approach is simple: **understand the problem, design the experience, build th
 
 </div>
 
+<br>
+
+<div align="center">
+
+<samp>
+JavaScript&nbsp;&nbsp;·&nbsp;&nbsp;
+TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;
+React&nbsp;&nbsp;·&nbsp;&nbsp;
+Next.js&nbsp;&nbsp;·&nbsp;&nbsp;
+Node.js&nbsp;&nbsp;·&nbsp;&nbsp;
+Laravel&nbsp;&nbsp;·&nbsp;&nbsp;
+HTML5&nbsp;&nbsp;·&nbsp;&nbsp;
+CSS3
+</samp>
+
+</div>
+
 ---
 
-## Contributions
+## Arcade
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  />
-  <img
-    src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
-    alt="Pacman contribution graph"
-  />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+ alt="Pacman contribution graph"
+/>
+
 </picture>
 
 </div>
 
 <br>
+
+<div align="center">
+
+<samp>
+CONTRIBUTING · BUILDING · LEARNING
+</samp>
+
+</div>
+
+---
 
 <div align="center">
 
