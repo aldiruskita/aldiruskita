@@ -5,7 +5,6 @@ src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/main/assets/anima
 alt="ALDI RUSKITA"
 />
 
-<br>
 
 <img
 src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"
