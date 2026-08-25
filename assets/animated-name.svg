@@ -3,49 +3,36 @@
   <defs>
 
 ```
-<linearGradient id="rgbGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="grayGradient" x1="0%" y1="0%" x2="100%" y2="0%">
 
-  <stop offset="0%" stop-color="#ff004c">
+  <stop offset="0%" stop-color="#6E7681">
     <animate
       attributeName="stop-color"
-      values="#ff004c;#ff7a00;#ffe600;#00ff88;#00d9ff;#7a5cff;#ff00c8;#ff004c"
-      dur="7s"
+      values="#6E7681;#C9D1D9;#F0F6FC;#C9D1D9;#6E7681"
+      dur="5s"
       repeatCount="indefinite"
     />
   </stop>
 
-  <stop offset="50%" stop-color="#00d9ff">
+  <stop offset="50%" stop-color="#F0F6FC">
     <animate
       attributeName="stop-color"
-      values="#00d9ff;#7a5cff;#ff00c8;#ff004c;#ff7a00;#00ff88;#00d9ff"
-      dur="7s"
+      values="#F0F6FC;#C9D1D9;#6E7681;#C9D1D9;#F0F6FC"
+      dur="5s"
       repeatCount="indefinite"
     />
   </stop>
 
-  <stop offset="100%" stop-color="#7a5cff">
+  <stop offset="100%" stop-color="#6E7681">
     <animate
       attributeName="stop-color"
-      values="#7a5cff;#ff00c8;#ff004c;#ff7a00;#ffe600;#00ff88;#7a5cff"
-      dur="7s"
+      values="#6E7681;#C9D1D9;#F0F6FC;#C9D1D9;#6E7681"
+      dur="5s"
       repeatCount="indefinite"
     />
   </stop>
 
 </linearGradient>
-
-<filter id="glow">
-  <feGaussianBlur
-    stdDeviation="3"
-    result="blur"
-  />
-
-  <feMerge>
-    <feMergeNode in="blur"/>
-    <feMergeNode in="SourceGraphic"/>
-  </feMerge>
-
-</filter>
 ```
 
   </defs>
@@ -57,9 +44,8 @@ text-anchor="middle"
 font-family="Space Grotesk, Arial, sans-serif"
 font-size="34"
 font-weight="700"
-letter-spacing="3"
-fill="url(#rgbGradient)"
-filter="url(#glow)"
+letter-spacing="4"
+fill="url(#grayGradient)"
 
 >
 
