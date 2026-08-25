@@ -4,7 +4,53 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="65%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2&section=header" width="65%" />
+
+<br>
+
+<!-- Animated monochrome title -->
+
+<svg width="850" height="75" viewBox="0 0 850 75" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="monoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate
+          attributeName="stop-color"
+          values="#D0D0D0;#6E7681;#30363D;#6E7681;#D0D0D0"
+          dur="4s"
+          repeatCount="indefinite" />
+      </stop>
+
+```
+  <stop offset="50%">
+    <animate
+      attributeName="stop-color"
+      values="#8B949E;#30363D;#D0D0D0;#30363D;#8B949E"
+      dur="4s"
+      repeatCount="indefinite" />
+  </stop>
+
+  <stop offset="100%">
+    <animate
+      attributeName="stop-color"
+      values="#30363D;#D0D0D0;#6E7681;#D0D0D0;#30363D"
+      dur="4s"
+      repeatCount="indefinite" />
+  </stop>
+</linearGradient>
+```
+
+  </defs>
+
+<text
+ x="425"
+ y="48"
+ text-anchor="middle"
+ font-family="JetBrains Mono, monospace"
+ font-size="30"
+ font-weight="600"
+ fill="url(#monoGradient)">
+ALDI RUSKITA </text> </svg>
 
 <br>
 
@@ -16,17 +62,28 @@ and digital experiences with purpose.
 <br><br>
 
 <a href="https://aldiruskita.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/aldiruskita">
-  <img src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <br><br>
 
 <a href="https://aldiruskita.vercel.app/">
-  <img src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS" alt="Profile views — Visit Portfolio" />
+  <img
+    src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=8B949E&label=PROFILE+VIEWS"
+    alt="Profile views — Visit Portfolio"
+  />
 </a>
 
 </div>
@@ -45,7 +102,10 @@ My approach is simple: **understand the problem, design the experience, build th
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=6E7681&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+INTENTION;ENGINEERING+WITH+PRECISION;LEARNING+WITHOUT+LIMITS;BUILDING+WHAT+MATTERS" alt="Developer philosophy" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=6E7681&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+INTENTION;ENGINEERING+WITH+PRECISION;LEARNING+WITHOUT+LIMITS;BUILDING+WHAT+MATTERS"
+alt="Developer philosophy"
+/>
 
 </div>
 
@@ -84,14 +144,17 @@ My approach is simple: **understand the problem, design the experience, build th
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
   />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  />
-  <img
-    src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
-    alt="Pacman contribution graph"
-  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/aldiruskita/aldiruskita/pacman-output/pacman-contribution-graph.svg?game=pacman"
+ alt="Pacman contribution graph"
+/>
+
 </picture>
 
 </div>
