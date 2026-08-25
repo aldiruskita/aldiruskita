@@ -1,48 +1,64 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aldi+Ruskita+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+things+that+actually+work+%E2%9A%A1;Code.+Create.+Iterate.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Aldi+Ruskita;Full-Stack+Developer;Building+Digital+Experiences;Code.+Design.+Engineering." alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=aldiruskita&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/aldiruskita?style=for-the-badge&label=FOLLOWERS&color=0e75b6" alt="Followers"/>
+  <samp>
+    Full-Stack Developer focused on building modern,<br>
+    scalable, and interactive digital experiences.
+  </samp>
 </p>
-
-</div>
-
----
-
-## 👋 About Me
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   👨‍💻  Full-Stack Developer                             │
-│                                                          │
-│   I enjoy turning ideas into clean, scalable,            │
-│   and interactive digital experiences.                   │
-│                                                          │
-│   ⚡ Frontend    →  Modern & interactive interfaces      │
-│   ⚙️ Backend     →  APIs & scalable architecture        │
-│   🗄️ Database    →  Structured & reliable data           │
-│   🚀 Currently   →  Building & experimenting             │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-### `Think → Build → Break → Fix → Repeat`
 
 <br>
 
 <a href="https://github.com/aldiruskita">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://open.spotify.com/user/Dirus">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-161b22?style=flat-square&logo=spotify&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=aldiruskita&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br>
+
+---
+
+<h2 align="left">About Me</h2>
+
+<p align="left">
+  I am a developer who enjoys transforming ideas into thoughtful digital products.
+  My focus is on creating interfaces that feel intuitive, systems that remain maintainable,
+  and applications that perform reliably at scale.
+</p>
+
+<p align="left">
+  I work across the stack, from crafting frontend experiences to designing backend
+  architecture and data-driven systems.
+</p>
+
+<br>
+
+<div align="center">
+
+```text
+DESIGN  →  DEVELOP  →  ITERATE  →  DEPLOY
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Always+learning.+Always+building.;Turning+ideas+into+working+products.;Focused+on+clean+code+and+better+experiences." alt="Developer philosophy" />
 
 </div>
 
@@ -75,7 +91,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
 </div>
 
 ###
