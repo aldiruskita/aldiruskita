@@ -22,10 +22,6 @@ and digital experiences with purpose.
 <a href="https://github.com/aldiruskita">
   <img src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;
-<a href="https://open.spotify.com/user/Dirus">
-  <img src="https://img.shields.io/badge/SPOTIFY-30363D?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
 
 <br><br>
 
@@ -59,18 +55,6 @@ My approach is simple: **understand the problem, design the experience, build th
 
 <a href="https://aldiruskita.vercel.app/">
   <img src="https://img.shields.io/badge/Aldi_-_Front--End_Developer_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=8B949E" alt="Aldi - Front-End Developer Portfolio" />
-</a>
-
-</div>
-
----
-
-## Currently Listening
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/Dirus">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Dirus&count=5" alt="Spotify recently played" />
 </a>
 
 </div>
